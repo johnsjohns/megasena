@@ -39,3 +39,4 @@ else:
     print('Voce acertou todos os numeros, me empreta uma grana??')
 
 print(resultado)
+
